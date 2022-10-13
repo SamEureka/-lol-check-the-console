@@ -1,0 +1,19 @@
+body {
+  background-color: #003C53;
+}
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+  width: 60rem;
+  color: #BADA55;
+  font-size: 5rem;
+}
+
+h4 {
+  margin-left:  auto;
+  margin-right: auto;
+  width: 50rem;
+  color: orangered;
+  font-size: 2rem;
+}
